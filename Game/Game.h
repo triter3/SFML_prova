@@ -16,6 +16,7 @@ private:
 	sf::RenderWindow window;
 	Player player;
 	WindowState window_state;
+	int FPS;
 };
 
 #endif
